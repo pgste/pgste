@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pgste
 - 👀 I’m interested in lightweight fast code
-- 🌱 I’m currently learning all about clouds and native images
+- 🌱 Currently passionate about clouds and building native binaries in golang and java(graal) to make serverless fast and scale to any form of use.
 
 <!---
 pgste/pgste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
